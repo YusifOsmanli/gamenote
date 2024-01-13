@@ -1,0 +1,20 @@
+{
+  "name": "holidaytaskkk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass":"node-sass assest/scss/index.scss -o assest/css/ -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "scss"
+  },
+  "description": ""
+}
